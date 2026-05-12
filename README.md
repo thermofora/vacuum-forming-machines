@@ -23,7 +23,7 @@ Our machines are operating in production facilities across 24 countries.
 | LITE 1510 | 1460×960 mm | 86 kW |
 | RAUT PRO (roll-fed) | 350×350 mm | 10 kW |
 
-Full lineup: https://vacuumforming3d.com/vacuum-forming-machines
+Full lineup: [vacuumforming3d.com/vacuum-forming-machines](https://vacuumforming3d.com/vacuum-forming-machines)
 
 ## Materials Supported
 
