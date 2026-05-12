@@ -17,11 +17,31 @@ Our machines are operating in production facilities across 24 countries.
 
 ## Machine Models
 
-| Model | Forming Area | Power |
-|---|---|---|
-| SMARTFORM 450 | 450×450 mm | 5 kW |
-| LITE 1510 | 1460×960 mm | 86 kW |
-| RAUT PRO (roll-fed) | 350×350 mm | 10 kW |
+### Small Size
+| Model | Name | Forming Area | Depth | Power |
+|---|---|---|---|---|
+| 01 | SMARTFORM 450 | 450×450 mm | 200 mm | 5 kW |
+| 02 | LITE 686 | 646×620 mm | 300 mm | 17 kW |
+| 03 | LITE 1366 | 1332×620 mm | 350 mm | 28 kW |
+
+### Middle Size
+| Model | Name | Forming Area | Depth | Power |
+|---|---|---|---|---|
+| 04 | LITE 1010 | 960×960 mm | 400 mm | 65 kW |
+| 05 | LITE 1510 | 1460×960 mm | 400 mm | 86 kW |
+| 06 | LITE 2010 | 1960×960 mm | 500 mm | 125 kW |
+
+### Large Size
+| Model | Name | Forming Area | Depth | Power |
+|---|---|---|---|---|
+| 07 | LITE 2215 | 2200×1500 mm | 500 mm | 210 kW |
+| 08 | LITE 2515 | 2500×1500 mm | 500 mm | 240 kW |
+| 09 | LITE 3020 | 3000×2000 mm | 500 mm | 380 kW |
+
+### Automatic Roll-Fed
+| Model | Name | Forming Area | Depth | Power |
+|---|---|---|---|---|
+| 10 | RAUT PRO | 350×350 mm | 200 mm | 10 kW |
 
 Full lineup: [vacuumforming3d.com/vacuum-forming-machines](https://vacuumforming3d.com/vacuum-forming-machines)
 
